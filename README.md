@@ -1,10 +1,10 @@
 # How to Use it Actually?!
 
 ```
-python3 nSHA256.py "<your messgae>" <repeatation>
+python3 nSHA256.py "<your message>" <repeatation>
 ```
 
-real exmaple:
+real example:
 
 ```
 python3 nSHA256.py "hash this message" 5
